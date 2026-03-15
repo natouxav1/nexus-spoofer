@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "- Améliorations et corrections",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.0/NexusSpoofer.exe",
+  "version": "1.0.1",
+  "changelog": "- Corrections et améliorations",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.1/NexusSpoofer.exe",
   "mandatory": false
 }
