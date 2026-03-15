@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "changelog": "- Fix boutons mise à jour toujours visibles",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.7/NexusSpoofer.exe",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.8/NexusSpoofer.exe",
   "mandatory": false
 }
