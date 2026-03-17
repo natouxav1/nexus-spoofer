@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "changelog": "- Installation professionnelle uniquement\\n- Mise a jour silencieuse automatique\\n- Experience utilisateur optimale\\n- Systeme de deploiement finalise",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.7/NexusSpoofer_Setup_v1.0.7.exe",
+  "version": "1.0.1",
+  "changelog": "- Spoofer HWID professionnel\\n- Interface moderne et intuitive\\n- Sauvegarde et restauration des identifiants\\n- Mises a jour automatiques\\n- Installation Windows complete",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.1/NexusSpoofer_Setup_v1.0.1.exe",
   "mandatory": false
 }
