@@ -1,0 +1,35 @@
+# Code source — PRIVÉ, ne jamais push
+src/
+assets/
+deploy.py
+build_installer.py
+installer.iss
+*.spec
+
+# Build artifacts
+build/
+dist/
+installer_output/
+
+# Documentation privée
+README.md
+INSTALLER_README.md
+ANTIVIRUS_FIX.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Data locaux
+*.dat
+*.json
+!version.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
