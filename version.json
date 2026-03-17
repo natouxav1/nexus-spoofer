@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "changelog": "- Design moderne avec bords arrondis\\n- Interface amelioree et plus elegante\\n- Compatibilite Windows 11\\n- Experience visuelle optimisee",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.4/NexusSpoofer_Setup_v1.0.4.exe",
+  "version": "1.0.5",
+  "changelog": "- Barre de titre personnalisee\\n- Boutons minimiser et fermer custom\\n- Fenetre draggable\\n- Design encore plus moderne",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.5/NexusSpoofer_Setup_v1.0.5.exe",
   "mandatory": false
 }
