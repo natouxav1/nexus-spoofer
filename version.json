@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "changelog": "- Version de test\\n- Verification du systeme de mise a jour\\n- Test de l'installeur silencieux",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.2/NexusSpoofer_Setup_v1.0.2.exe",
+  "version": "1.0.3",
+  "changelog": "- Mise a jour avec elevation admin automatique\\n- Installation silencieuse amelioree\\n- Fix permissions lors des updates",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.3/NexusSpoofer_Setup_v1.0.3.exe",
   "mandatory": false
 }
