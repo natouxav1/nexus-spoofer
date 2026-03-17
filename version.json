@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "changelog": "- Suppression auto-spoof et bouton mise a jour\\n- Verification automatique des mises a jour au lancement\\n- Prevention des instances multiples\\n- Interface simplifiee",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.4/NexusSpoofer.exe",
+  "version": "1.0.5",
+  "changelog": "- Systeme de deploiement ameliore\\n- Installeur Windows professionnel\\n- Mises a jour automatiques au lancement\\n- Interface simplifiee",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.5/NexusSpoofer_Setup_v1.0.5.exe",
   "mandatory": false
 }
