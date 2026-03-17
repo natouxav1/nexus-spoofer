@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "changelog": "- Fix antivirus detection (UPX disabled)\\n- Improved build configuration",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.2/NexusSpoofer.exe",
+  "version": "1.0.3",
+  "changelog": "- Icones ameliores dans l'interface\\n- Fix antivirus detection (UPX disabled)\\n- Interface plus moderne",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.3/NexusSpoofer.exe",
   "mandatory": false
 }
