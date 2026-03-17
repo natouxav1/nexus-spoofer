@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "changelog": "- Systeme de deploiement ameliore\\n- Installeur Windows professionnel\\n- Mises a jour automatiques au lancement\\n- Interface simplifiee",
-  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.5/NexusSpoofer_Setup_v1.0.5.exe",
+  "version": "1.0.6",
+  "changelog": "- Mise a jour silencieuse automatique\\n- Plus besoin de reconfigurer lors des updates\\n- Installation intelligente (detecte les upgrades)\\n- Experience utilisateur amelioree",
+  "download_url": "https://github.com/natouxav1/nexus-spoofer/releases/download/v1.0.6/NexusSpoofer_Setup_v1.0.6.exe",
   "mandatory": false
 }
